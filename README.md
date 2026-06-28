@@ -48,7 +48,7 @@ Aplikasi Point of Sale dibangun menggunakan beberapa Teknologi diantaranya :
 
 Lakukan Clone Project/Unduh manual .
 
-Aktifkan Xampp Control Panel, lalu akses ke http://localhost/phpmyadmin/.
+Aktifkan Xampp/Laragon Control Panel, lalu akses ke http://localhost/phpmyadmin/.
 
 Buat database dengan nama 'DESA-LARAVEL'.
 
