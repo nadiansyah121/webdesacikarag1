@@ -11,7 +11,7 @@
 
 
 
-Website portal desa Laravel adalah sebuah website yang dibangun menggunakan framework Laravel. Website ini dapat digunakan oleh pemerintah desa untuk mengelola berbagai informasi dan layanan kepada masyarakat.. Berikut adalah beberapa fitur dan komponen utama yang dapat ada dalam aplikasi POS berbasis web Laravel:
+Website portal desa Laravel adalah sebuah website yang dibangun menggunakan framework Laravel. Website ini dapat digunakan oleh pemerintah desa untuk mengelola berbagai informasi dan layanan kepada masyarakat.. Berikut adalah beberapa fitur dan komponen utama yang dapat ada dalam aplikasi berbasis web Laravel:
 
 
 
