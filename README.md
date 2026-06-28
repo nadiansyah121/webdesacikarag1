@@ -50,7 +50,7 @@ Lakukan Clone Project/Unduh manual .
 
 Aktifkan Xampp Control Panel, lalu akses ke http://localhost/phpmyadmin/.
 
-Buat database dengan nama 'pos'.
+Buat database dengan nama 'DESA-LARAVEL'.
 
 Jika melakukan Clone Project, rename file .env.example dengan env dan hubungkan
 database nya dengan mengisikan nama database, 'DB_DATABASE=DESA-LARAVEL'.
@@ -61,6 +61,11 @@ Kemudian, Ketik pada terminal :
 php artisan migrate
 ```
 
+Lalu ketik
+
+```sh
+php artisan storage:link
+```
 Lalu ketik juga
 
 ```sh
