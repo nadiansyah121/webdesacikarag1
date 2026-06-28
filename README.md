@@ -64,12 +64,12 @@ php artisan migrate
 Lalu ketik
 
 ```sh
-php artisan storage:link
+php artisan migrate:fresh --seed
 ```
 Lalu ketik juga
 
 ```sh
-php artisan migrate:fresh --seed
+php artisan storage:link
 ```
 
 Jalankan aplikasi 
@@ -86,6 +86,6 @@ Akses Aplikasi di Web browser
 Demo Login :
 1. Admin
     - email     : admin@gmail.com
-    - password  : 1234
+    - password  : admin
 
 
